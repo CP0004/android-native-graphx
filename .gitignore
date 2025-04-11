@@ -1,0 +1,49 @@
+# Build directories
+libs/
+obj/
+
+# Android build artifacts
+bin/
+gen/
+out/
+build/
+.gradle/
+local.properties
+
+# NDK generated files
+*.o
+*.so
+*.a
+*.d
+*.class
+
+# Android Studio / IDE files
+.idea/
+.vscode/
+*.iml
+.externalNativeBuild/
+.cxx/
+cmake-build-*/
+captures/
+.navigation/
+
+# Compiled output
+*.apk
+*.ap_
+*.aab
+*.dex
+
+# Log files
+*.log
+logcat*
+
+# Temporary files
+*~
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Generated files
+.externalNativeBuild/
+.cxx/ 
