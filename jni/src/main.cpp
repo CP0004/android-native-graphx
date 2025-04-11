@@ -34,7 +34,7 @@ int main(int argc, char *argv[])
 
         // arabic text support
         draw_text_centered(draw_list,
-                           FarsiType::ConvertToFAGlyphs(wstring_to_utf8(char_to_wstring("السلام عليكم يا عالم"))),
+                           FarsiType::ConvertToFAGlyphs("السلام عليكم يا عالم"),
                            ImGui::GetDefaultFont(),
                            50.0f,
                            {(float)width / 2.0f, (float)height / 2.0f},
