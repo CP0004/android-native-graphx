@@ -2,7 +2,7 @@
 
 A C++ project using ImGui for Android applications with support for Arabic text rendering and touch input.
 
-<img src="https://github.com/user-attachments/assets/ce079abe-99ef-49a7-bcad-473e08e7551e" width="400" alt="ImGui Android Demo">
+<img src="https://github.com/user-attachments/assets/ce079abe-99ef-49a7-bcad-473e08e7551e" width="200" alt="ImGui Android Demo">
 
 ## Overview
 
