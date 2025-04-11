@@ -1,6 +1,7 @@
 # ImGui Android Project
 
 A C++ project using ImGui for Android applications with support for Arabic text rendering and touch input.
+![photo_2025-04-11_14-04-14](https://github.com/user-attachments/assets/ce079abe-99ef-49a7-bcad-473e08e7551e)
 
 ## Requirements
 
