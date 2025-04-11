@@ -2,7 +2,11 @@
 
 A C++ project using ImGui for Android applications with support for Arabic text rendering and touch input.
 
-![photo_2025-04-11_14-04-14](https://github.com/user-attachments/assets/ce079abe-99ef-49a7-bcad-473e08e7551e)
+<img src="https://github.com/user-attachments/assets/ce079abe-99ef-49a7-bcad-473e08e7551e" width="400" alt="ImGui Android Demo">
+
+## Overview
+
+This project provides a framework for developing Android applications using the ImGui library, with special emphasis on Arabic text rendering and touch input handling. It enables developers to create visually appealing cross-platform applications with a consistent interface.
 
 ## Requirements
 
@@ -20,7 +24,6 @@ A C++ project using ImGui for Android applications with support for Arabic text 
 ## Project Structure
 
 ```
-imgui-code/
 ├── jni/
 │   ├── include/          # Header files
 │   │   ├── main.h        # Main header file
@@ -126,9 +129,20 @@ For issues and feature requests, please open an issue in the project repository.
 
 ## Acknowledgments
 
-This project was developed with inspiration and code references from the following open-source projects:
+This project would not have been possible without the excellent work of the following open-source projects and their dedicated developers:
 
-- [TouchSimulation](https://github.com/kp7742/TouchSimulation) - Touch simulation implementation in Golang and C++ for Android devices
-- [Android_Native_Surface](https://github.com/SsageParuders/Android_Native_Surface) - Native Surface implementation for Android
+### [TouchSimulation](https://github.com/kp7742/TouchSimulation)
+- Developed by [kp7742](https://github.com/kp7742)
+- Provided essential touch simulation implementation in Golang and C++ for Android devices
+- Offered valuable insights into Android input handling mechanisms
 
-We express our gratitude to the developers and contributors of these projects for their valuable work and for sharing their knowledge with the community.
+### [Android_Native_Surface](https://github.com/SsageParuders/Android_Native_Surface)
+- Developed by [SsageParuders](https://github.com/SsageParuders)
+- Provided critical native surface implementation techniques for Android
+- Demonstrated effective approaches for low-level graphics rendering
+
+We express our sincere gratitude to these developers and their communities for their exceptional contributions to open-source software, which have significantly influenced and enhanced this project.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
